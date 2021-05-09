@@ -107,8 +107,8 @@
                                 <b-card-text itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                                     <span itemprop="text">
                                         <b>None</b><br>
-                                        Your Token doesn't need an access type because of there are not actions that
-                                        needs privileges. <br><br>
+                                        Your Token doesn't need an access type because there are no actions that
+                                        needs privileges.<br><br>
                                         <b>Ownable</b><br>
                                         Your Token will have an Owner. The account you use to deploy your Token will be
                                         owner by default and will be able to mint new tokens or call the finish minting
